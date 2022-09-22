@@ -1,10 +1,13 @@
 # Basic config, that must be set correctly
-baseurl: /markdownslides
-githuburl: https://github.com/a-nau/markdownslides/
+baseurl: /g2oi
+#githuburl: https://github.com/IRDG2OI/markdownslides/
 
 # Further config
 markdown_slide_separator: ---
 permalink: "/:title"
+
+# Redirect
+redirects: yes
 
 ## personalize your slide show
 
